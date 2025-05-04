@@ -1,4 +1,4 @@
-# The Wild Oasis
+# The Wild Oasis - Website
 
 A luxurious cabin booking platform for a resort located in the heart of the Italian Dolomites. Built with Next.js, React, and Tailwind CSS.
 
