@@ -138,14 +138,6 @@ yarn dev
    - If first-time user, a new guest record is created
    - User is redirected back to previous page
 
-## Styling Notes
-
-The application uses a dark theme with accent colors for important actions and information:
-
-- Dark backgrounds (primary-950, primary-900, etc.)
-- Light text (primary-100, primary-200)
-- Accent colors for calls-to-action and important information
-
 ## Responsive Design
 
 The application is designed to work on various screen sizes, with responsive layouts for:
